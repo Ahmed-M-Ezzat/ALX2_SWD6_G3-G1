@@ -70,6 +70,12 @@
             <version>5.0.9</version> <!-- or latest -->
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/io.appium/java-client -->
+        <dependency>
+            <groupId>io.appium</groupId>
+            <artifactId>java-client</artifactId>
+            <version>9.4.0</version>
+        </dependency>
 
     </dependencies>
     <build>
